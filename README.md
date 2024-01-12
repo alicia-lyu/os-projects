@@ -8,3 +8,4 @@ This is a collection repo of projects I did for CS 537 Operating System. All pro
 - [Parallel Sorting](https://github.com/alicia-lyu/parallel-sort): Utilizes Linux pthreads for efficient data sorting.
 - [Ext2 Disk Image Checker](https://github.com/alicia-lyu/disk-checker): Inspects an ext2 disk image to recover deleted jpg files.
 
+Acknowledgments: Thanks to CS 537 Spring 2023 course staff at University of Wisconsin–Madison for providing starter code, project description, and test cases.
