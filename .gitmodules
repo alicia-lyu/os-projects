@@ -1,0 +1,15 @@
+[submodule "basic-shell"]
+	path = basic-shell
+	url = git@github.com:alicia-lyu/basic-shell.git
+[submodule "parallel-sort"]
+	path = parallel-sort
+	url = git@github.com:alicia-lyu/parallel-sort.git
+[submodule "xv6-stride-scheduling"]
+	path = xv6-stride-scheduling
+	url = git@github.com:alicia-lyu/xv6-stride-scheduling.git
+[submodule "xv6-CoW"]
+	path = xv6-CoW
+	url = git@github.com:alicia-lyu/xv6-CoW.git
+[submodule "disk-checker"]
+	path = disk-checker
+	url = git@github.com:alicia-lyu/disk-checker.git
